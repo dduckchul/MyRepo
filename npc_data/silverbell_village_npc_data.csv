@@ -1,4 +1,4 @@
-npc_id,npc_name,role,grade,region,location,affiliation,level_recommend,interaction_type,quest_id,shop_id,dialogue_set,default_mood,schedule,relationship_start,relationship_max,favorite_gift,disliked_gift,service_1,service_2,unlock_condition,designer_note
+﻿npc_id,npc_name,role,grade,region,location,affiliation,level_recommend,interaction_type,quest_id,shop_id,dialogue_set,default_mood,schedule,relationship_start,relationship_max,favorite_gift,disliked_gift,service_1,service_2,unlock_condition,designer_note
 NPC101,하림,마을 대표,주요,은방울 마을,마을 광장,은방울 마을,18,대화/퀘스트,QST_SILVERBELL_MAIN_001,,DLG_HARIN_MAIN,차분함,상시,0,100,은방울 꽃다발,검댕 깃털,마을 의뢰 안내,지역 평판 확인,하얀 협곡 도착,새 지역 진입 시 마을 허브 역할
 NPC102,도윤,잡화상,상점,은방울 마을,잡화점,은방울 상회,18,상점/교환,QST_SILVERBELL_SHOP_001,SHP_SILVERBELL_001,DLG_DOYUN_SHOP,친절함,07:00-22:00,5,80,동전 주머니,저주 조각,소모품 판매,생활 재료 교환,은방울 마을 방문,중반 소모품과 일반 재료 공급 담당
 NPC103,세린,방한복 재단사,상점,은방울 마을,재단소,재단사 조합,19,상점/제작,QST_TAILOR_001,SHP_TAILOR_001,DLG_SERIN_TAILOR,꼼꼼함,08:00-20:00,0,90,두꺼운 모피,끈적한 용암액,방한 장비 제작,의상 염색,서리발톱 곰 처치,설원 지역 생존 장비 제작 담당

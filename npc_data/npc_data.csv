@@ -1,4 +1,4 @@
-npc_id,npc_name,role,grade,region,location,affiliation,level_recommend,interaction_type,quest_id,shop_id,dialogue_set,default_mood,schedule,relationship_start,relationship_max,favorite_gift,disliked_gift,service_1,service_2,unlock_condition,designer_note
+﻿npc_id,npc_name,role,grade,region,location,affiliation,level_recommend,interaction_type,quest_id,shop_id,dialogue_set,default_mood,schedule,relationship_start,relationship_max,favorite_gift,disliked_gift,service_1,service_2,unlock_condition,designer_note
 NPC001,엘라,마을 촌장,주요,초승달 마을,마을 회관,초승달 마을,1,대화/퀘스트,QST_MAIN_001,,DLG_ELLA_MAIN,차분함,상시,0,100,허브차,녹슨 무기,메인 퀘스트 안내,지역 정보,게임 시작,초반 동선과 세계관 소개 담당
 NPC002,로완,대장장이,상점,초승달 마을,대장간,장인 길드,3,상점/강화,QST_SMITH_001,SHP_SMITH_001,DLG_ROWAN_SMITH,무뚝뚝함,06:00-22:00,0,80,철광석,젖은 천,장비 강화,수리,첫 장비 획득 후,강화 시스템 튜토리얼 담당
 NPC003,미리,약초상,상점,초승달 마을,약초 상점,초승달 마을,2,상점/제작,QST_HERB_001,SHP_HERB_001,DLG_MIRI_HERB,상냥함,07:00-21:00,5,90,반딧불 가루,독 포자 주머니,회복약 판매,소모품 제작,초승달 숲 진입,소모품 루프와 상태 이상 해제 소개
